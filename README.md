@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ilyass Sif 👋
 
-<!--
-**ilyasssif12345/ilyasssif12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Networking & Telecommunications student** with a passion for building reliable software.
 
-Here are some ideas to get you started:
+I believe in understanding how things work under the hood—from the high-level web frameworks down to the network packets and operating system kernels.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I Do
+
+* **Networking:** I'm studying network architecture, IP subnetting, and Linux server management.
+* **Low-Level Learning:** Currently exploring OS development, C, and Assembly language to understand computing at its core.
+
+### 🛠️ Technologies
+
+* **Languages:** Python, C, SQL
+* **Tools:** Linux, Git, Wireshark
+
